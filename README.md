@@ -22,16 +22,26 @@ A full-stack AI-powered SaaS application that allows users to generate images fr
 - React
 - Tailwind CSS (or CSS modules)
 - Axios
+- motion
+- react-router-dom
+- react-toastify
 
 **Backend:**
 - Node.js
 - Express
 - MongoDB (with Mongoose)
 - JWT for authentication
+- axios
+- cors
+- bcrypt
+- dotenv
+- nodemon
+- jsonwebtokwn
+- razorpay
 
 **AI Integration:**
 - Stable Diffusion (via API or local inference)
-- Python (optional for image processing)
+- AI image generation
 
 ---
 
@@ -88,4 +98,4 @@ Inspired by Nicholas Renotte's tutorial
 
 ---
 
-Let me know if you'd like to include deployment steps (e.g., for Vercel, Render, or AWS), or a `requirements.txt` for a Python backend.
+Let me know if you'd like to include deployment steps (e.g., for Vercel, Render, or AWS), or a `requirements.txt` for a JavaScript backend.
