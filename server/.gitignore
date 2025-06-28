@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Env files
+.env
+.env.*
+
+# Logs
+logs
+*.log
+
+# OS files
+.DS_Store
+
+# Build output
+dist/
+build/
+
+# Secrets
+*.key
+*.pem
