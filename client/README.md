@@ -38,19 +38,19 @@ A full-stack AI-powered SaaS application that allows users to generate images fr
 ## 📸 Demo
 
 > A user signs up, enters a prompt like “A cyberpunk city at night,” and receives an AI-generated image within seconds.  
-> ![Demo Screenshot](sample/demo.png)
+> ![Demo Screenshot](../sample/demo.png)
 
-> ![Demo Screenshot](sample/demo1.png)
+> ![Demo Screenshot](../sample/demo1.png)
 
-> ![Demo Screenshot](sample/demo2.png)
+> ![Demo Screenshot](../sample/demo2.png)
 
-> ![Demo Screenshot](sample/demo3.png)
+> ![Demo Screenshot](../sample/demo3.png)
 
-> ![Demo Screenshot](sample/demo4.png)
+> ![Demo Screenshot](../sample/demo4.png)
 
-> ![Demo Screenshot](sample/demo5.png)
+> ![Demo Screenshot](../sample/demo5.png)
 
-> ![Demo Screenshot](sample/demo6.png)
+> ![Demo Screenshot](../sample/demo6.png)
 ---
 
 ## 🧰 Installation
