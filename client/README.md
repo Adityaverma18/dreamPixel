@@ -19,20 +19,32 @@ A full-stack AI-powered SaaS application that allows users to generate images fr
 ## 🛠️ Tech Stack
 
 **Frontend:**
-- React
-- Tailwind CSS (or CSS modules)
-- Axios
+
+React
+Tailwind CSS (or CSS modules)
+Axios
+motion
+react-router-dom
+react-toastify
 
 **Backend:**
-- Node.js
-- Express
-- MongoDB (with Mongoose)
-- JWT for authentication
+
+Node.js
+Express
+MongoDB (with Mongoose)
+JWT for authentication
+axios
+cors
+bcrypt
+dotenv
+nodemon
+jsonwebtokwn
+razorpay
 
 **AI Integration:**
-- Stable Diffusion (via API or local inference)
-- Python (optional for image processing)
 
+Stable Diffusion (via API or local inference)
+AI image generation
 ---
 
 ## 📸 Demo
@@ -61,14 +73,17 @@ A full-stack AI-powered SaaS application that allows users to generate images fr
 cd server
 npm install
 # Create a .env file with your MongoDB URI and JWT_SECRET
-npm start
+npm run server
 
 ```
 ##🌐 Frontend Setup
 
+```bash
 cd client
 npm install
-npm start
+npm run dev
+
+```
 
 
 ##📂 Folder Structure
