@@ -61,14 +61,18 @@ A full-stack AI-powered SaaS application that allows users to generate images fr
 cd server
 npm install
 # Create a .env file with your MongoDB URI and JWT_SECRET
-npm start
+npm run server
 
 ```
 ##🌐 Frontend Setup
 
+
+```bash
 cd client
 npm install
-npm start
+npm run dev
+
+```
 
 
 ##📂 Folder Structure
