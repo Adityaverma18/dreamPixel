@@ -4,6 +4,10 @@ A full-stack AI-powered SaaS application that allows users to generate images fr
 
 ---
 
+🌐 **Live Demo**: [https://dreampixel-client.onrender.com](https://dreampixel-client.onrender.com)
+
+---
+
 ## 🚀 Features
 
 - ✍️ Text prompt to image generation
